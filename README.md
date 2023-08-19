@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivakarUpadhyay
 - 👀 I’m interested in ...Software Development and Engineering Approaches,Relocation,New Opportunity.
-- 🌱 I’m currently learning ... python and machine learning
+- 🌱 I’m currently learning ... python and machine learning and I have experience of dot net development more than 6+ years.
 - 💞️ I’m looking to collaborate on ...software development,research field
 - 📫 How to reach me ...upadhyaydivakar1991@gmail.com
 
